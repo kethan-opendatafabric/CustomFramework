@@ -4,3 +4,8 @@ framework module CustomFramework {
   export *
   module * { export * }
 }
+
+module CustomFramework.Swift {
+    header "CustomFramework-Swift.h"
+    requires objc
+}
