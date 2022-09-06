@@ -7,5 +7,5 @@ import Swift
 import UIKit
 import _Concurrency
 public struct ManagerClass {
-  public func testFramework() -> UIKit.UIViewController?
+  public static func testFramework() -> UIKit.UIViewController?
 }
