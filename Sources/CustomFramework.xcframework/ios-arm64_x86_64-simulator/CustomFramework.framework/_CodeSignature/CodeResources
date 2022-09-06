@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		bgH+lcTwznNKV1jh7EgPEBh535s=
+		/+BLDLv46FVLl7R49OOCWJ/NiRM=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YL0vT8fwNTPWSS4EErD9rFIhJSA=
+		cnwqnVdcByUHs9FZ/he4GZ+VeWo=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,15 +34,31 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		GiowOHWgjwY2KPv9S0YpP1od98U=
+		IvgC+m0RgsjppXfKUm1h58KNLA0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xW1DS4g95qCe2y1VVfhwUv13SKs=
+		Ker2S2bgcHQhJBYZGIlMo16NxlI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		+LtZVTjfBjGnueROJZjT+oGbdlc=
+		</data>
+		<key>TestViewController.storyboardc/Info.plist</key>
+		<data>
+		7lTUjks+IJTn23xLj9MNUVaDdzg=
+		</data>
+		<key>TestViewController.storyboardc/TestViewController.nib</key>
+		<data>
+		n0eBpFC9YzZksewnxDGMnoGAdJ0=
+		</data>
+		<key>TestViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<data>
+		AJPprVnul1Mp7S4PmnkxFzs/0DU=
+		</data>
+		<key>TestViewController.storyboardc/initialNavigation.nib</key>
+		<data>
+		nXEH8x9Gmoah6EL6QgfG1/8YSW8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -72,14 +88,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			23UreiVFe7HjXNr7Sr1eAjqqlci4Lxt3RcSSQNoAXU4=
+			JvgFTHiwy3TBMcTM//wk/GIl/OgEGl7dMTnLNFHfS2U=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F2XF3qWakt9w4h96pHsA+2FI8Aj4PsFdSu4aGnLLhbY=
+			q4S9MZXqKKJVnRhs5kNuNsU4f9ERcqOHHztWgK1aEmk=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -93,14 +109,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NU6yd/Fuf7gBsyfECwssr71/Yh5JkB6tWttQhwewpUI=
+			rFJBe+dD4m3/s0ILHE9/b9X1SE7X6SlmB9nsNRSVjJQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4kOaAQm2vbvvvPrlnlQSps72PeAsTEwHbK+UJZjY1DE=
+			SYJbM0xY3/09Hpg2cuk0k4iqTMIgXth7jMSw6sun7+I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +124,34 @@
 			<key>hash2</key>
 			<data>
 			Q4u07j8jgtjMKyfxePaDWhk2oUd+SMx4RFiBzlvd+PU=
+			</data>
+		</dict>
+		<key>TestViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xH5VnNS/RTFH5bj0TwohsIPoX2/0OgN7RiwgUftO8KQ=
+			</data>
+		</dict>
+		<key>TestViewController.storyboardc/TestViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k1PHloPiNZJYA6C7GTmx4/5RgbQC+CoMhNtnDdh0FQI=
+			</data>
+		</dict>
+		<key>TestViewController.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			t2+zQ96hlBePPT8+sYGMLZbiGuqzNuxbjzO7yGnhr00=
+			</data>
+		</dict>
+		<key>TestViewController.storyboardc/initialNavigation.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jzzoOYqcysNpHuJUAPmVVuzFMSeg7cgOpPYtcDnvWDo=
 			</data>
 		</dict>
 	</dict>
