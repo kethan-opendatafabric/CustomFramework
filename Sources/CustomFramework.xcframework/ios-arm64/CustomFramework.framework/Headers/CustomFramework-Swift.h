@@ -247,9 +247,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 
 
 
-
-
-
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop
 #endif
