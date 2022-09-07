@@ -4,9 +4,17 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AlertView.nib</key>
+		<data>
+		TkTgCcY9AWy4u6MWAR5f+zzJeJY=
+		</data>
+		<key>ErrorAlertView.nib</key>
+		<data>
+		fgprR1+RAwgwglXWf2v5tAfxHzM=
+		</data>
 		<key>Headers/CustomFramework-Swift.h</key>
 		<data>
-		3aZ5DzdfhpCrsOOM8GGHcU6wkxA=
+		oTIJj+3Y6/yMgFqePxPhlriRdvY=
 		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
@@ -14,7 +22,19 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ndRoRgfOuge02fXHYR7ffrzldnI=
+		tjZbMlzDQbkpEFaKmD0FGtV5Tw4=
+		</data>
+		<key>LoginViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		f0xGxHy53ZFL12J06NxUw+OGaHk=
+		</data>
+		<key>LoginViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>LoginViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		51JYO9f2VOEkcpGTrIeeF/KA8jg=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -22,11 +42,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		1MUf7TZcEh2ncLYj28pfWY5Bm70=
+		tfzJ0zDvMEIewMdiZlpUvHE3EUQ=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UgBUn/p9fKzB72r9kxP5IGvrypw=
+		prHm7ISzkPyljU+rGnGfGgywhf8=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -34,15 +54,87 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Ku+3xAXBe8pjkdbJ27VkDFEF4HU=
+		JAsHNkgy+oEDamVznsJ52+Fo+/Y=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AUmoeA3URIloJwYJ7i8wDI5URdk=
+		zk622af/op6l5YhXAlzON2gC0HA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		+LtZVTjfBjGnueROJZjT+oGbdlc=
+		</data>
+		<key>Poppins-Black.ttf</key>
+		<data>
+		ZF4ExTxrWzW85lSoEevOFq+KpyE=
+		</data>
+		<key>Poppins-BlackItalic.ttf</key>
+		<data>
+		vk7yqsd3WksBecDs/ObOqPd4P2M=
+		</data>
+		<key>Poppins-Bold.ttf</key>
+		<data>
+		h1zwzs1ke88i551jPYaMGx7Jjfo=
+		</data>
+		<key>Poppins-BoldItalic.ttf</key>
+		<data>
+		beiVLKCNJ+539XNH0s70tOJqp48=
+		</data>
+		<key>Poppins-ExtraBold.ttf</key>
+		<data>
+		S1wHUPBzq9V2QToImNO5Wtrxmcg=
+		</data>
+		<key>Poppins-ExtraBoldItalic.ttf</key>
+		<data>
+		lNPuOs29AON6cVol8rUjdma1uKM=
+		</data>
+		<key>Poppins-ExtraLight.ttf</key>
+		<data>
+		ha9lgqfmFVkXxgX50/7WjAKyOwY=
+		</data>
+		<key>Poppins-ExtraLightItalic.ttf</key>
+		<data>
+		b6BBj5EDJoDS2P5IQwCfLID6ph0=
+		</data>
+		<key>Poppins-Italic.ttf</key>
+		<data>
+		4r/NVgFsPJFSIe8cX8Ghewd265E=
+		</data>
+		<key>Poppins-Light.ttf</key>
+		<data>
+		4kepIVjhEvi/e2OMjZU4HWawDbs=
+		</data>
+		<key>Poppins-LightItalic.ttf</key>
+		<data>
+		92ECs2HnBXUag7eyL+lU2vHyfdQ=
+		</data>
+		<key>Poppins-Medium.ttf</key>
+		<data>
+		KD8htE772/J2uoAr4tlJo2u8QjM=
+		</data>
+		<key>Poppins-MediumItalic.ttf</key>
+		<data>
+		tZLGL9+IxAz9DwMbumQjsdRDBHI=
+		</data>
+		<key>Poppins-Regular.ttf</key>
+		<data>
+		/dMALn2BTuR8HBuEh8csa7s6LQA=
+		</data>
+		<key>Poppins-SemiBold.ttf</key>
+		<data>
+		ikrOk5LQa8t/jqL1FpsH5MODqQ0=
+		</data>
+		<key>Poppins-SemiBoldItalic.ttf</key>
+		<data>
+		DIvtCllCsjiNNrEcEVaF2fAXALA=
+		</data>
+		<key>Poppins-Thin.ttf</key>
+		<data>
+		CbpNzVUJyAhb+IxmXcxRy9/O0ns=
+		</data>
+		<key>Poppins-ThinItalic.ttf</key>
+		<data>
+		+4/MyiFVDnETX5K7r4ouihLJBGU=
 		</data>
 		<key>Test1Storyboard.storyboardc/Info.plist</key>
 		<data>
@@ -60,14 +152,40 @@
 		<data>
 		sXngRqFTQRed9VgMHpGTIr2cuGQ=
 		</data>
+		<key>WelcomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		3amSrbcIVdmN0RcvoEFPRMMLEio=
+		</data>
+		<key>WelcomeViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>WelcomeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		b9hefHEjAUaPNzHAkXG2aTLj6Ys=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AlertView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Nd6AmntpZXBbdpiQhwqcXb3rQ9qXuzF3K+PDTlAfg+w=
+			</data>
+		</dict>
+		<key>ErrorAlertView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6KP4pcONCKO3i5i2hs51qvu2uSzTCe8POa1QYAes28M=
+			</data>
+		</dict>
 		<key>Headers/CustomFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kE3MO7opmmu8I6IXBiDTnG8IPwaGpQtSm8nMmWOiO5U=
+			zxefLBC1E0dEEOttOsEICydzrL9W4UFjfsMlLiB2Q+A=
 			</data>
 		</dict>
 		<key>Headers/CustomFramework.h</key>
@@ -75,6 +193,27 @@
 			<key>hash2</key>
 			<data>
 			AQVKdcG8/5VZHcE6zSMKF8cPfmGNrUZDROgfMXyslV0=
+			</data>
+		</dict>
+		<key>LoginViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zMATqiOQmqAVQmqkhGZGbkLKdJFrNdePlGS5giJe0Ao=
+			</data>
+		</dict>
+		<key>LoginViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>LoginViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y7T3trVq+B19oies+MyfnWd9aQHSqBo9Tatiqk7MPp0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -88,14 +227,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3+J9hxbPYdfmCzBEeJ9RJnMQOL9GEeozJjdYZhRyjK4=
+			y+R8N1nelH2rTboD9P3QgfuRJLoHoMKYc25qXOxtbH4=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IyQ7pqLl+IeJOrOL6jSoddFA8N4mXsdBPl46/mBml8w=
+			Hn1A1ImxY7XVM3Sx+veMXhG52TSJrwgDJ+uEKp+KImk=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -109,14 +248,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			66Z2NtzDVUu/q3fkrCVLSm8WlVATR0hDSJFBQh3JygA=
+			rKicN5gRbb/KvP7qbyZ6EqSAwN5RqZDSqwz7wbQ4avM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EXdD+th4zuxJJgSdGH2GQ5OY2CFlArkpbrg3x2Uqe0E=
+			i9GrTK8JJG1U5T2i+DtMjvL+/oUnm7P7bb20qTx0fMY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -124,6 +263,132 @@
 			<key>hash2</key>
 			<data>
 			Q4u07j8jgtjMKyfxePaDWhk2oUd+SMx4RFiBzlvd+PU=
+			</data>
+		</dict>
+		<key>Poppins-Black.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KR5DiKQ2zwwNUyzkc1pMo2vSKGkSsFHqQj1cODvgbNc=
+			</data>
+		</dict>
+		<key>Poppins-BlackItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pePjHp3Gh4Jp/dqKlo+MAhK+759+9gKLbR4CKTMW230=
+			</data>
+		</dict>
+		<key>Poppins-Bold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			chlUfuJTNMusD+SzrPC/Yx5I67YixxrwOO2qplLGCHU=
+			</data>
+		</dict>
+		<key>Poppins-BoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nU2fPCwonq7EA2YOwhW9xF5itJ+XiAdxS/wxynkWyP4=
+			</data>
+		</dict>
+		<key>Poppins-ExtraBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lKIV+I+96Qmcs70UMbgUKromrzb4dx7/7FapS8Oq0f0=
+			</data>
+		</dict>
+		<key>Poppins-ExtraBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u6mG4RZpBmD3DT67GKdNjSyOr82mwoyP/EMGqh4rkeQ=
+			</data>
+		</dict>
+		<key>Poppins-ExtraLight.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YMS7G48nLwrEcCuWLMRuWOiFplYkR5vhwGRsnjfZzmI=
+			</data>
+		</dict>
+		<key>Poppins-ExtraLightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BUGPTTM/Jd2vNZra85snd+ZNrQ+Dw/pFAtGT0K0Zqbc=
+			</data>
+		</dict>
+		<key>Poppins-Italic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MiXOxqAYMQSX6p7hFqpDsqgzRk/tYVbc65o6RCS7hhM=
+			</data>
+		</dict>
+		<key>Poppins-Light.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZH8BTTaCLvfgQT/7tlWYrgy1f7eY5jXGORLJPZTrNWo=
+			</data>
+		</dict>
+		<key>Poppins-LightItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bQCqVTHIuLoJNN55JZhcZjbJn7yJtMn3lin7SpBnZU8=
+			</data>
+		</dict>
+		<key>Poppins-Medium.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jZCYg96BNE4PvP7zDpMYcuktmu7N+Fttz24LKMB46Y4=
+			</data>
+		</dict>
+		<key>Poppins-MediumItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RJ9r2Qf+Kdvf1e8JkL27f9gA76dIqD97dSncuU95lVs=
+			</data>
+		</dict>
+		<key>Poppins-Regular.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cH/cXIurV6kAYcao7Xtw1f+4L8gQ6ZTnn5C6zokMJVo=
+			</data>
+		</dict>
+		<key>Poppins-SemiBold.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JIwCRLNQ7GiICZaqa+bXeWJ0tJmS1fy77+JRkGqk6jY=
+			</data>
+		</dict>
+		<key>Poppins-SemiBoldItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dLMcvCnckMLWMOd2c+e29xT/m7AeXUJGcLxhyoW2CTo=
+			</data>
+		</dict>
+		<key>Poppins-Thin.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lYdfnvDRLVy91khSkzpXgCHIEM7CR/dWQgfgRs9scok=
+			</data>
+		</dict>
+		<key>Poppins-ThinItalic.ttf</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BDImsOGHJjq1TePpcbZjp35Sw4V8uyNchBA4jbbSjeg=
 			</data>
 		</dict>
 		<key>Test1Storyboard.storyboardc/Info.plist</key>
@@ -152,6 +417,27 @@
 			<key>hash2</key>
 			<data>
 			YkAL7d8yjyIBACEz5GbR7g8RJ5R+frRWzEeVytiQnEY=
+			</data>
+		</dict>
+		<key>WelcomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nyFAm84XhVl15d7bek+xLfWNcIWXL7JCUWOZz0vkj0I=
+			</data>
+		</dict>
+		<key>WelcomeViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>WelcomeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5x3+qzG3F9hkS2ExqSMs4BAup79EOaVReHIdes1QAus=
 			</data>
 		</dict>
 	</dict>

@@ -1,12 +1,64 @@
 // swift-interface-format-version: 1.0
 // swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target arm64-apple-ios15.5-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name CustomFramework
-import Bond
+import CoreLocation
 @_exported import CustomFramework
 import Foundation
+import LocalAuthentication
+import MapKit
+import MessageUI
+import MobileCoreServices
+import Photos
+import SafariServices
 import Swift
+import SwiftUI
+import SystemConfiguration
 import UIKit
 import _Concurrency
+public protocol Reusable : AnyObject {
+  static var reuseIdentifier: Swift.String { get }
+}
+public typealias NibReusable = CustomFramework.NibLoadable & CustomFramework.Reusable
+extension CustomFramework.Reusable {
+  public static var reuseIdentifier: Swift.String {
+    get
+  }
+}
+public protocol NibLoadable : AnyObject {
+  static var nib: UIKit.UINib { get }
+}
+extension CustomFramework.NibLoadable {
+  public static var nib: UIKit.UINib {
+    get
+  }
+}
+extension CustomFramework.NibLoadable where Self : UIKit.UIView {
+  public static func loadFromNib() -> Self
+}
+@objc @_inheritsConvenienceInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class Gradient : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public class var layerClass: Swift.AnyClass {
+    @_Concurrency.MainActor(unsafe) @objc get
+  }
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func traitCollectionDidChange(_ previousTraitCollection: UIKit.UITraitCollection?)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(frame: CoreGraphics.CGRect)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
 public struct ManagerClass {
   public static func testFramework() -> UIKit.UIViewController?
 }
+extension Foundation.NSMutableAttributedString {
+  public func setAsLink(textToFind: Swift.String, linkURL: Swift.String, underLine: Swift.Bool = false, size: CoreGraphics.CGFloat = 11.0) -> Foundation.NSMutableAttributedString
+  public func setStringColor(textToFind: Swift.String, size: CoreGraphics.CGFloat = 16, isBold: Swift.Bool = false, isRed: Swift.Bool = false) -> Foundation.NSMutableAttributedString
+}
+public protocol ModuleBuilder : AnyObject {
+  func build() -> UIKit.UIViewController
+  func customBuilder() -> UIKit.UIViewController?
+}
+extension CustomFramework.ModuleBuilder {
+  public func customBuilder() -> UIKit.UIViewController?
+}
+@_hasMissingDesignatedInitializers public class HeadersBuilder {
+  @objc deinit
+}
+infix operator <-- : AdditionPrecedence
