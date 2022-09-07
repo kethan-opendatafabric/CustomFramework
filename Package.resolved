@@ -10,6 +10,15 @@
       }
     },
     {
+      "identity" : "currencytext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marinofelipe/CurrencyText.git",
+      "state" : {
+        "revision" : "32c6f6859b9833a35559a6193cb7c34eb08f5f60",
+        "version" : "3.0.0"
+      }
+    },
+    {
       "identity" : "differ",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/tonyarnold/Differ.git",
@@ -19,12 +28,39 @@
       }
     },
     {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alexruperez/lottie-ios.git",
+      "state" : {
+        "revision" : "8f81de8d81da8631fd95ff81a9db133b76e13ea4",
+        "version" : "3.1.6"
+      }
+    },
+    {
+      "identity" : "phonenumberkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/marmelroy/PhoneNumberKit",
+      "state" : {
+        "revision" : "8b65e21af5834d12cdf7db8d7a8684ece67fda25",
+        "version" : "3.4.8"
+      }
+    },
+    {
       "identity" : "reactivekit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/DeclarativeHub/ReactiveKit.git",
       "state" : {
         "revision" : "dfb63f820aa54946c4cbcbe1b6024863a143d3a2",
         "version" : "3.19.1"
+      }
+    },
+    {
+      "identity" : "swiftsignatureview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alankarmisra/SwiftSignatureView.git",
+      "state" : {
+        "revision" : "6912d301de5088aa16d61566b62596069342a096",
+        "version" : "3.2.0"
       }
     }
   ],
