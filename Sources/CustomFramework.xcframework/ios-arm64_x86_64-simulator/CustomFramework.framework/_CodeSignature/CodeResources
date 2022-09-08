@@ -34,7 +34,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		qcBYkpWsnXDbjorU6iCFz2P48us=
+		7Kpo1DZDG+6M+ji+MHfrNFly2uk=
 		</data>
 		<key>BalanceViewController.storyboardc/Info.plist</key>
 		<data>
@@ -250,7 +250,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		wBvQkZJzJpux/hwyyL1EA2nxZSI=
+		JklanKl2sDeH0WpIsDgxKSAxRHY=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -262,7 +262,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fgiVEx0sDCPuaqO2ztCsIpbgAY8=
+		sxU2GhPVcOSDSbVIA+5LTvo8Vqo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -592,7 +592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XaNxbumYOteDtmR2tZkTN74/rNLOOBkcegyjD0R3e9o=
+			Zl5KljfJiZygxKN4Woq1bUpZjYO+Gk4JDnODx6PglbY=
 			</data>
 		</dict>
 		<key>BalanceViewController.storyboardc/Info.plist</key>
@@ -963,7 +963,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pErzHXpYkNkM/YGgzx+FdbYaXPwqgOuXwQ++7z0oMjE=
+			191THIbLlq0EGtel/p4ca9BoIDSuiYXdWXSHjWkXPoI=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -984,7 +984,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VtO1gfzvewrqGqL5oTcEf+/Gv04h8P3LJA6i/aCtuP0=
+			QEVOnu+zvwMhTdpY+XpW9CEUKFshXFjVDL9uvMo7PkI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
