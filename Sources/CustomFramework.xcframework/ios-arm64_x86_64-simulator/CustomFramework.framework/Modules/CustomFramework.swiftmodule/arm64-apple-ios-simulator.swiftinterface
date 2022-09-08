@@ -4,6 +4,7 @@
 import CoreLocation
 @_exported import CustomFramework
 import Foundation
+import Foundation/*.Bundle*/
 import LocalAuthentication
 import MapKit
 import MessageUI
