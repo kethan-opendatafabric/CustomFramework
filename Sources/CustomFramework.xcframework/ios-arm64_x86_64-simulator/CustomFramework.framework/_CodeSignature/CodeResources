@@ -4,25 +4,229 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AccountTypesViewController.storyboardc/Info.plist</key>
+		<data>
+		Y1sxFLH6GIrPK2cJBA1mR+fn3bs=
+		</data>
+		<key>AccountTypesViewController.storyboardc/UIViewController-igm-YQ-io5.nib</key>
+		<data>
+		V0eICe9vrSV11zfBgMw13T9nw3U=
+		</data>
+		<key>AccountTypesViewController.storyboardc/igm-YQ-io5-view-wOq-rO-3am.nib</key>
+		<data>
+		etinJOvgqiDRuW1lNVAZImohL9A=
+		</data>
 		<key>AlertView.nib</key>
 		<data>
 		TkTgCcY9AWy4u6MWAR5f+zzJeJY=
+		</data>
+		<key>AppointmentViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		uolwRlBsVF6gvqN/uGkYJFelZ3c=
+		</data>
+		<key>AppointmentViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>AppointmentViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		VEhGaM9ZtP5XEOAspsHVRhrejJQ=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		Mrr9OyGp6WmpZcuJRz3kP5G/oIA=
+		</data>
+		<key>BalanceViewController.storyboardc/Info.plist</key>
+		<data>
+		LzS/4vmVnVuNyCPL3OpdJmcuxWM=
+		</data>
+		<key>BalanceViewController.storyboardc/T2o-sZ-Zpf-view-sba-1G-WvW.nib</key>
+		<data>
+		EXX2bHVqNeBqZTRgEplet98TM5c=
+		</data>
+		<key>BalanceViewController.storyboardc/UIViewController-T2o-sZ-Zpf.nib</key>
+		<data>
+		4VawranXwASvyepESteqVRGMRP0=
+		</data>
+		<key>ChangePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		tFszXURssV9TV2wv599Mk6lotmg=
+		</data>
+		<key>ChangePasswordViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>ChangePasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		7aFe2c+M9TIN+M/f7Te46j5wacg=
+		</data>
+		<key>ChatViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		PffhpqvKmv2LpEfaRxga9MTeQL8=
+		</data>
+		<key>ChatViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>ChatViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		sC0l42gVTdTwUeSYFkdOavCeQxE=
+		</data>
+		<key>CreatePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		MtetwsIcVqc1at/iE6DSUsVF08s=
+		</data>
+		<key>CreatePasswordViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>CreatePasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		oRwuua2h05iHh4syG+5pAbZIpGI=
+		</data>
+		<key>DashboardViewController.storyboardc/DashboardViewController.nib</key>
+		<data>
+		dKsPJposn0KtJb9jhR3Q6lvvm50=
+		</data>
+		<key>DashboardViewController.storyboardc/Info.plist</key>
+		<data>
+		dOs5RQAza8wZ1P3vvDWiJON9G3Q=
+		</data>
+		<key>DisburseSuccessViewController.storyboardc/ICDisburseSuccessViewController.nib</key>
+		<data>
+		7maoyfnSIRgGOazx6A6i2XONc0M=
+		</data>
+		<key>DisburseSuccessViewController.storyboardc/Info.plist</key>
+		<data>
+		XEkeFXxW4YO8P3jCLYaBF2shhS8=
+		</data>
+		<key>DisburseSuccessViewController.storyboardc/OgW-JJ-3sm-view-0wz-cV-FWC.nib</key>
+		<data>
+		BSVg4Nk0RHe10FaZRMM+vI4V0H0=
 		</data>
 		<key>ErrorAlertView.nib</key>
 		<data>
 		fgprR1+RAwgwglXWf2v5tAfxHzM=
 		</data>
+		<key>ForgotPasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		0QRwl/JZD7rAba6W0W3tvuct7ng=
+		</data>
+		<key>ForgotPasswordViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>ForgotPasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		zy4tV8vgzHElSP8+rwzgNYl7g4U=
+		</data>
+		<key>HeaderViewController.storyboardc/Info.plist</key>
+		<data>
+		k5xLFfXu1yiIHcgAm/1AGD9bBoI=
+		</data>
+		<key>HeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
+		<data>
+		z3kzThmNLnBn6NXC7q+s04J+vzk=
+		</data>
+		<key>HeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
+		<data>
+		NqeOuwEBT7jC5gYrYVBRyY4RGYs=
+		</data>
 		<key>Headers/CustomFramework-Swift.h</key>
 		<data>
-		mXfiZNW72B+Xkk+Y6rgG6ABWEaY=
+		fFF9t4yPGLBB3fz647aFmgM9S5w=
 		</data>
 		<key>Headers/CustomFramework.h</key>
 		<data>
 		LUTaU5/Wwd1/jhfW0bJ1nGGQ5ck=
 		</data>
+		<key>HomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		W8mC2eLzoAmn8jgZMFp47aE7oDQ=
+		</data>
+		<key>HomeViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>HomeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		RMRwO+tbDpuwylRGSpDYm4rSZdQ=
+		</data>
+		<key>ICDisburseSuccessViewController.storyboardc/ICDisburseSuccessViewController.nib</key>
+		<data>
+		Tt6VfyfW7nZAeIJvFnKfKkKc2hY=
+		</data>
+		<key>ICDisburseSuccessViewController.storyboardc/Info.plist</key>
+		<data>
+		XEkeFXxW4YO8P3jCLYaBF2shhS8=
+		</data>
+		<key>ICDisburseSuccessViewController.storyboardc/OgW-JJ-3sm-view-0wz-cV-FWC.nib</key>
+		<data>
+		wwFsCk/HBuh1eZk9WXxDJ7FxIfk=
+		</data>
+		<key>ICPaySuccessViewController.storyboardc/Info.plist</key>
+		<data>
+		xEmnNbY7oJ3T2gzrAiXIS+roATQ=
+		</data>
+		<key>ICPaySuccessViewController.storyboardc/UIViewController-Uh5-Mx-nOT.nib</key>
+		<data>
+		bAZK/dZYO0KeTNzakIR6w7QMD5M=
+		</data>
+		<key>ICPaySuccessViewController.storyboardc/Uh5-Mx-nOT-view-MDP-p5-wXr.nib</key>
+		<data>
+		gflK67x8rlOZCANXW6ixYYVOX4I=
+		</data>
+		<key>ICQuantityViewController.storyboardc/Info.plist</key>
+		<data>
+		Y1sxFLH6GIrPK2cJBA1mR+fn3bs=
+		</data>
+		<key>ICQuantityViewController.storyboardc/UIViewController-igm-YQ-io5.nib</key>
+		<data>
+		kSgUFQ6qBZLJ4IfpqUgFE0FnDB0=
+		</data>
+		<key>ICQuantityViewController.storyboardc/igm-YQ-io5-view-wOq-rO-3am.nib</key>
+		<data>
+		0X6RpSVajrTNnO8MEukFDKkXI6s=
+		</data>
+		<key>ICTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
+		<data>
+		Jy8k+KkRxjiFy+jFD18mPIj8qZs=
+		</data>
+		<key>ICTransactionViewController.storyboardc/Info.plist</key>
+		<data>
+		iZVGW0pv5N9ERu1AUvghIjLn8ws=
+		</data>
+		<key>ICTransactionViewController.storyboardc/UIViewController-1vg-3n-KFT.nib</key>
+		<data>
+		hh+3Te8vAnix2Z9iny6fDk3MlZU=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		tjZbMlzDQbkpEFaKmD0FGtV5Tw4=
+		SuKVJEB5rZape+G5sfYrHe4871A=
+		</data>
+		<key>InstantCreditAmountViewController.storyboardc/Info.plist</key>
+		<data>
+		8g9nMJWCBYkgYVEiT+3P0m/G4yM=
+		</data>
+		<key>InstantCreditAmountViewController.storyboardc/InstantCreditAmountViewController.nib</key>
+		<data>
+		sw1zR1+v/Nrp71zEwlRfszchpgA=
+		</data>
+		<key>InstantCreditAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
+		<data>
+		ZKcfOi4zylWxryXubYEUpTTXudg=
+		</data>
+		<key>LOCTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
+		<data>
+		XgzuMCA+vDR+UHeMhKrU0PsgNeA=
+		</data>
+		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
+		<data>
+		iZVGW0pv5N9ERu1AUvghIjLn8ws=
+		</data>
+		<key>LOCTransactionViewController.storyboardc/UIViewController-1vg-3n-KFT.nib</key>
+		<data>
+		vdboJttWDuB/Bj7zy2pcXRXc2J8=
 		</data>
 		<key>LoginViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
@@ -46,7 +250,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6N+7740JDTdImlrqblFMqoFR4PQ=
+		tzUUbU1D+we2NuIn67RKwePybH8=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,11 +262,71 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/SCKt3gN2klovh+YhIQ9jE8HyFU=
+		Qs//l8edixcvUdwHwqNvGlYOB4s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		+LtZVTjfBjGnueROJZjT+oGbdlc=
+		</data>
+		<key>NotificationDetailViewController.storyboardc/9i8-WJ-vai-view-nwb-tz-uVa.nib</key>
+		<data>
+		r5pvn0uLDltuvwMDpPQp7q3kBGk=
+		</data>
+		<key>NotificationDetailViewController.storyboardc/Info.plist</key>
+		<data>
+		2J32xBFs4s6olGjT+w8ESAfiDhA=
+		</data>
+		<key>NotificationDetailViewController.storyboardc/UIViewController-9i8-WJ-vai.nib</key>
+		<data>
+		oTAFR2VtbbQXmMezjbCNGMNizrE=
+		</data>
+		<key>NotificationViewController.storyboardc/Info.plist</key>
+		<data>
+		ojMbXRxHMFkAJFCNm7VBGimo6eA=
+		</data>
+		<key>NotificationViewController.storyboardc/OcV-n8-ouK-view-Gm9-la-O1N.nib</key>
+		<data>
+		c4NHxexmwba66YYm6BfSDY42D+I=
+		</data>
+		<key>NotificationViewController.storyboardc/UIViewController-OcV-n8-ouK.nib</key>
+		<data>
+		guhav8ZF3UEXD2CZ2CvYhS7dwIc=
+		</data>
+		<key>OTPVerifySuccessViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		0ndMVku9f1ktA9nx/4vcwnbjTjM=
+		</data>
+		<key>OTPVerifySuccessViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>OTPVerifySuccessViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		r4YSaSEe+VEAqhJ6iuFG9nbkdIQ=
+		</data>
+		<key>PaymentHeaderViewController.storyboardc/Info.plist</key>
+		<data>
+		k5xLFfXu1yiIHcgAm/1AGD9bBoI=
+		</data>
+		<key>PaymentHeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
+		<data>
+		/DWTMIipMmm1Q8aGBLkwcrb1guo=
+		</data>
+		<key>PaymentHeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
+		<data>
+		g/1f28LlsPPYzra3sqBxDS/ZX1I=
+		</data>
+		<key>PaymentReceiptViewController.storyboardc/Info.plist</key>
+		<data>
+		xEmnNbY7oJ3T2gzrAiXIS+roATQ=
+		</data>
+		<key>PaymentReceiptViewController.storyboardc/UIViewController-Uh5-Mx-nOT.nib</key>
+		<data>
+		tP+uvAlhQzzQu95iMSKTGN2mriY=
+		</data>
+		<key>PaymentReceiptViewController.storyboardc/Uh5-Mx-nOT-view-MDP-p5-wXr.nib</key>
+		<data>
+		cqdodCWcgY2/oJeYWROt0/WgAi0=
 		</data>
 		<key>Poppins-Black.ttf</key>
 		<data>
@@ -136,6 +400,90 @@
 		<data>
 		+4/MyiFVDnETX5K7r4ouihLJBGU=
 		</data>
+		<key>ProductSubscribeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		PcsQ5KsnqvIBJppDZuI0kVIIAV8=
+		</data>
+		<key>ProductSubscribeViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>ProductSubscribeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		L5rzh+VAAghRLMCfHeM/K1Ufti4=
+		</data>
+		<key>ProfileViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		sEx4rHhK2M5zpDfs1U6a1LHL4kg=
+		</data>
+		<key>ProfileViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>ProfileViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		lzu7AqofnimCwWAn7HFK3DGED8I=
+		</data>
+		<key>RegisterSuccessViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		xLed6dI/otOjN+bEUL8K6MjjhQk=
+		</data>
+		<key>RegisterSuccessViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>RegisterSuccessViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		Fffxq+04ucylXi3iEvzoksnJoSs=
+		</data>
+		<key>RegisterViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		dVPKKoSV4FiZs56z/po/4b66rQE=
+		</data>
+		<key>RegisterViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>RegisterViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		zzATautu6kXJiPMy7EA7Fkqvq4U=
+		</data>
+		<key>RequestForLoanViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		6tJwi1Mu3Ugqut32MxoeHAe75Qk=
+		</data>
+		<key>RequestForLoanViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>RequestForLoanViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		S3mSbkaFqKltPqLZhwyXuiTDxns=
+		</data>
+		<key>SendToAmountViewController.storyboardc/Info.plist</key>
+		<data>
+		KyvIgcp7a4xliTGY1lQ7P/x0btA=
+		</data>
+		<key>SendToAmountViewController.storyboardc/UIViewController-alF-Zn-1xN.nib</key>
+		<data>
+		1KrRwk3vOTZY1JPvQXm1UaBRYRA=
+		</data>
+		<key>SendToAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
+		<data>
+		NwaSSevgd1E0ghNOZe9YaERBSUo=
+		</data>
+		<key>SummaryViewController.storyboardc/Info.plist</key>
+		<data>
+		6hEZ0rIXceNVo9kT1u4/t6C6g4o=
+		</data>
+		<key>SummaryViewController.storyboardc/UIViewController-ftk-7P-IYN.nib</key>
+		<data>
+		vIlSSo14WY/k+eoTwLQGI49eGzE=
+		</data>
+		<key>SummaryViewController.storyboardc/ftk-7P-IYN-view-ypW-M5-Zgd.nib</key>
+		<data>
+		6rEoNslGfr0uOd0l3sz9wFxuaW0=
+		</data>
 		<key>Test1Storyboard.storyboardc/Info.plist</key>
 		<data>
 		A4cmvSBTQD0QXKi7GS8NUWh9ZcE=
@@ -152,6 +500,30 @@
 		<data>
 		sXngRqFTQRed9VgMHpGTIr2cuGQ=
 		</data>
+		<key>TransactionListViewController.storyboardc/Info.plist</key>
+		<data>
+		lusF/kIMKmOsb2MDjT2KaU7fD80=
+		</data>
+		<key>TransactionListViewController.storyboardc/UIViewController-dmg-gX-cAd.nib</key>
+		<data>
+		TnuVqkNfhzsCaiLuQwa82jpzeVU=
+		</data>
+		<key>TransactionListViewController.storyboardc/dmg-gX-cAd-view-8ee-CA-NXs.nib</key>
+		<data>
+		VJGMmnlFYPMqz1X6Cw7om9eBUC4=
+		</data>
+		<key>VerifyPhoneViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<data>
+		w+GyY6jlScSkVNGLXqrdDpDHbi4=
+		</data>
+		<key>VerifyPhoneViewController.storyboardc/Info.plist</key>
+		<data>
+		AUhYv2MKjwyR34yvYAfokehKzp8=
+		</data>
+		<key>VerifyPhoneViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<data>
+		XG8vFn6YUnP7Rsn+PbEAh9yxFSE=
+		</data>
 		<key>WelcomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
 		3amSrbcIVdmN0RcvoEFPRMMLEio=
@@ -167,11 +539,179 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AccountTypesViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SXHQlcMN/p2WyVczKcqQUzeiQkkH1l5pbdLZbjVN65E=
+			</data>
+		</dict>
+		<key>AccountTypesViewController.storyboardc/UIViewController-igm-YQ-io5.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			a64+ihplM5dtRy2GOcNoeE/pG/4534wtdQEKch0wiYM=
+			</data>
+		</dict>
+		<key>AccountTypesViewController.storyboardc/igm-YQ-io5-view-wOq-rO-3am.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			F5uQ5xnT7DWqC5G8XAq7dYyWfDPTj3IuysLtwf0nM7Q=
+			</data>
+		</dict>
 		<key>AlertView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			Nd6AmntpZXBbdpiQhwqcXb3rQ9qXuzF3K+PDTlAfg+w=
+			</data>
+		</dict>
+		<key>AppointmentViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GJKgcvH2xBpx/ozk2F4BaQkLUAGFjmk850/x82O4kEA=
+			</data>
+		</dict>
+		<key>AppointmentViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>AppointmentViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ltizr8vk3gvhiuPC34wqf0IbeiFQtrGs6CZkbePKoLA=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6FZQv1GtrIcLJ0Hw942/poeOO1pZH2bXPrfQShPRuIg=
+			</data>
+		</dict>
+		<key>BalanceViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZbSkpvCKPkXeXqGs/eO0OxK51akBbqu93u69BidaWDA=
+			</data>
+		</dict>
+		<key>BalanceViewController.storyboardc/T2o-sZ-Zpf-view-sba-1G-WvW.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			insEuSbjEBiYFhuuLyIXLzA1jHEo/8aKz4RXDWug2hM=
+			</data>
+		</dict>
+		<key>BalanceViewController.storyboardc/UIViewController-T2o-sZ-Zpf.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sBstZMpf7V41PNDEmziVqyUgoq+7y6LEduLaH8RhUPY=
+			</data>
+		</dict>
+		<key>ChangePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RKfNd679d1g4CrEzSRlm87wOixOh1tg9j/te/kM7d2c=
+			</data>
+		</dict>
+		<key>ChangePasswordViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>ChangePasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rN6YtW6pN67SLTk4kIiH9lHNJ8L81bqZnPOMsnVUrsM=
+			</data>
+		</dict>
+		<key>ChatViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TMoZilqkYi2eneYj2k/U5QXwU7Af1wyY6ETQrRmKNEk=
+			</data>
+		</dict>
+		<key>ChatViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>ChatViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/bWLsBNL1vBw7HSoXGV/Q6rl3Z3Z4Y7QwryWk09mQIw=
+			</data>
+		</dict>
+		<key>CreatePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rsWuukycJCJXd268UgCOrI/R6lGWc2tONBsT4S98QUM=
+			</data>
+		</dict>
+		<key>CreatePasswordViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>CreatePasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JoJo5Qj8Vamluf6esWDolo2yelvqqvqqmA49oKUHl0k=
+			</data>
+		</dict>
+		<key>DashboardViewController.storyboardc/DashboardViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K5kX3euujmsNZttgIz4tHO8ilwtjej1LCMKtTeuR0EY=
+			</data>
+		</dict>
+		<key>DashboardViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q/O5epWytX76Ur3/CNVISqE/yYsDoseaE71tbNd1Xfk=
+			</data>
+		</dict>
+		<key>DisburseSuccessViewController.storyboardc/ICDisburseSuccessViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WvWeGMv/dFI8foXUi9dWcWbjxQrx40OChzU+r6kT2IU=
+			</data>
+		</dict>
+		<key>DisburseSuccessViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cQYhEA/sx9Zod1k4EEtqASV4yOKWMT7JoquOnYQh3+Y=
+			</data>
+		</dict>
+		<key>DisburseSuccessViewController.storyboardc/OgW-JJ-3sm-view-0wz-cV-FWC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZN4bck/FZcHgNbUqsQW7fbzdC6TK9xjQJTkVX2xYLOg=
 			</data>
 		</dict>
 		<key>ErrorAlertView.nib</key>
@@ -181,11 +721,53 @@
 			6KP4pcONCKO3i5i2hs51qvu2uSzTCe8POa1QYAes28M=
 			</data>
 		</dict>
+		<key>ForgotPasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+uQleWXAYhJnPEXrVjxx9HeKwmUavjwnn9nQX/rt0G8=
+			</data>
+		</dict>
+		<key>ForgotPasswordViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>ForgotPasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			H6Or/qObGUNP+LZkcYk+tOE9KdillvdFk9bpKMdy/CY=
+			</data>
+		</dict>
+		<key>HeaderViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b/er15HKhz7NFAMRVSkYLs1tUt7CHx3j93HHbaqUj9w=
+			</data>
+		</dict>
+		<key>HeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KfcpUabjPai4t+1Ag6m6gy0mw5FGASB9J1g4HwqF3yo=
+			</data>
+		</dict>
+		<key>HeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			BzZPjUb1pQAMnHoFKBNsoHx+iZEZqFoZ30rQ2BQiFag=
+			</data>
+		</dict>
 		<key>Headers/CustomFramework-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0tva7T+kiHrp6nTbZrWt4ewEDsVQBgRD6Dimu8o7KXM=
+			YgvbBl9XCtEao4yHKeqTXuw837XT4DOgSqVtXoFG8/M=
 			</data>
 		</dict>
 		<key>Headers/CustomFramework.h</key>
@@ -193,6 +775,153 @@
 			<key>hash2</key>
 			<data>
 			AQVKdcG8/5VZHcE6zSMKF8cPfmGNrUZDROgfMXyslV0=
+			</data>
+		</dict>
+		<key>HomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			io1Rq9NBseyqo3pYKtQ76NmXdImdqzGqRjp6e8ykeeA=
+			</data>
+		</dict>
+		<key>HomeViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>HomeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JNtEIFm+1yLawqckvxshDoUmJ/t2SNcyqj0LpjNjdDE=
+			</data>
+		</dict>
+		<key>ICDisburseSuccessViewController.storyboardc/ICDisburseSuccessViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9YlRWj+T32GA1w3Dzp8n563Qk55zmzJrjbkmJlWK7Vw=
+			</data>
+		</dict>
+		<key>ICDisburseSuccessViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cQYhEA/sx9Zod1k4EEtqASV4yOKWMT7JoquOnYQh3+Y=
+			</data>
+		</dict>
+		<key>ICDisburseSuccessViewController.storyboardc/OgW-JJ-3sm-view-0wz-cV-FWC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jp3hUkntv3kulnNgP6Vhdyc3wv+Uhn84W0Uow67Uz4M=
+			</data>
+		</dict>
+		<key>ICPaySuccessViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/g832pKTx7NRJj0wTx0Iryp0n8sUFCxOQUKnN5xLxAE=
+			</data>
+		</dict>
+		<key>ICPaySuccessViewController.storyboardc/UIViewController-Uh5-Mx-nOT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HIt8EwelkJmcb0enjFRlg5kBDZeGQC9jOENqoDxWd3Q=
+			</data>
+		</dict>
+		<key>ICPaySuccessViewController.storyboardc/Uh5-Mx-nOT-view-MDP-p5-wXr.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TcB4N3LgRBE2LkaAwhD7zn3MBikW/gRAdVk1nws0yws=
+			</data>
+		</dict>
+		<key>ICQuantityViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SXHQlcMN/p2WyVczKcqQUzeiQkkH1l5pbdLZbjVN65E=
+			</data>
+		</dict>
+		<key>ICQuantityViewController.storyboardc/UIViewController-igm-YQ-io5.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i4X7tmy0jH9hkEqdAkLVMGZe1JGu8Yf3gEu9Obd3hIk=
+			</data>
+		</dict>
+		<key>ICQuantityViewController.storyboardc/igm-YQ-io5-view-wOq-rO-3am.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3igIQudI36RExKUAGJ2YjA9R/UTInMoyFe1o/R9DsGc=
+			</data>
+		</dict>
+		<key>ICTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WmlUjEqf4B1mkiqvvhFskl1vpxBWp/RLtugDvPDvTFs=
+			</data>
+		</dict>
+		<key>ICTransactionViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZIal1gRl0ZQoTrBo4uJPT1/3y89v30TtCVmrNM07KbY=
+			</data>
+		</dict>
+		<key>ICTransactionViewController.storyboardc/UIViewController-1vg-3n-KFT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L46FydyeIg8c+aORTzumY6y3eKfY6MfKOvvbwdcZGDY=
+			</data>
+		</dict>
+		<key>InstantCreditAmountViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			JlMRlWuGntno7ffOoschcZBgXiUe2vq74FmhsRprlgI=
+			</data>
+		</dict>
+		<key>InstantCreditAmountViewController.storyboardc/InstantCreditAmountViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			oPgUx65R8pw7dpgx1A2NCNsgugZfpMfAwuMYLfZIkqY=
+			</data>
+		</dict>
+		<key>InstantCreditAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jMn4BpfA3pXZzVfKIUXfJnDNzx9CLXEqBFRHE//o3N8=
+			</data>
+		</dict>
+		<key>LOCTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			fJJtEj1srqVG7nCQ7MFi58mx04h94GkWKMbQ1qaXkyw=
+			</data>
+		</dict>
+		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZIal1gRl0ZQoTrBo4uJPT1/3y89v30TtCVmrNM07KbY=
+			</data>
+		</dict>
+		<key>LOCTransactionViewController.storyboardc/UIViewController-1vg-3n-KFT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qLBythF6UaIfs1r40gBknsqzOCdtKEJJ67s8f7I+Img=
 			</data>
 		</dict>
 		<key>LoginViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
@@ -234,7 +963,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tMEk+zwFoZtc2MPS1EhSjlOMRKbyx6JzpOpcjoSTGy4=
+			9o9HQS3OOOmHt7QlBup0PnMbHC/ASxqS2gtTUlWNIpc=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -255,7 +984,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fvJFW2BiEIrH9Xu45KsoNlMGYukjo0whGg8u/479tkg=
+			oi3DWWL+9oVXyFpfYWCCGc6YaVyIxagymFIqSoGqfp0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -263,6 +992,111 @@
 			<key>hash2</key>
 			<data>
 			Q4u07j8jgtjMKyfxePaDWhk2oUd+SMx4RFiBzlvd+PU=
+			</data>
+		</dict>
+		<key>NotificationDetailViewController.storyboardc/9i8-WJ-vai-view-nwb-tz-uVa.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VqebgZSBc3iHdjIkdZS7gZZhuz7PTzYUFFmhue13UEk=
+			</data>
+		</dict>
+		<key>NotificationDetailViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FBITWXbhMrqjpUwLQ6qLACq/I7nicVCtiw+uUqSoeso=
+			</data>
+		</dict>
+		<key>NotificationDetailViewController.storyboardc/UIViewController-9i8-WJ-vai.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dYL+v3N61vGzJT+8a9RRJQEUXJ9Syr8qeOfWmZhh5JI=
+			</data>
+		</dict>
+		<key>NotificationViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			35ZBF3o/dp64nY4U/mFmtaEggF4l8pm0F0KpW8+kZ9k=
+			</data>
+		</dict>
+		<key>NotificationViewController.storyboardc/OcV-n8-ouK-view-Gm9-la-O1N.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eev8lXymqtLGQhnuS/ZEx0ElmoOe1TpT4FZAt9aXcfg=
+			</data>
+		</dict>
+		<key>NotificationViewController.storyboardc/UIViewController-OcV-n8-ouK.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AotAcOFJ1/6C9P/u7KqIMw5yKfArdtyKiAt8gcRbCgc=
+			</data>
+		</dict>
+		<key>OTPVerifySuccessViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			EkjREQPcRQ0O1LkU03o6rqu4bI1eOm8Bsg9E2zOldco=
+			</data>
+		</dict>
+		<key>OTPVerifySuccessViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>OTPVerifySuccessViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			McpwhKKPz9DSlAnMH35uipuORj/w/ltA1chmbhLb+eU=
+			</data>
+		</dict>
+		<key>PaymentHeaderViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			b/er15HKhz7NFAMRVSkYLs1tUt7CHx3j93HHbaqUj9w=
+			</data>
+		</dict>
+		<key>PaymentHeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QXqMEBEhYV1l4BVjTBi4fiugfQCfpFsyFpKG7Zqxxsk=
+			</data>
+		</dict>
+		<key>PaymentHeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Hhc4ZJLbIAmb7f2L5N9dFOXWtMHobodoGN0L/BdBnIs=
+			</data>
+		</dict>
+		<key>PaymentReceiptViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/g832pKTx7NRJj0wTx0Iryp0n8sUFCxOQUKnN5xLxAE=
+			</data>
+		</dict>
+		<key>PaymentReceiptViewController.storyboardc/UIViewController-Uh5-Mx-nOT.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FsiPhxDl3l9w20gWo643NDko4Wk/2/0caWfiHXa74Lk=
+			</data>
+		</dict>
+		<key>PaymentReceiptViewController.storyboardc/Uh5-Mx-nOT-view-MDP-p5-wXr.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			KMGea2H4qU0MgU1C7UpdrzhI5tsENpnPaPH/qzJNIbw=
 			</data>
 		</dict>
 		<key>Poppins-Black.ttf</key>
@@ -391,6 +1225,153 @@
 			BDImsOGHJjq1TePpcbZjp35Sw4V8uyNchBA4jbbSjeg=
 			</data>
 		</dict>
+		<key>ProductSubscribeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FlIWhlrWgz4v6ND7nsMCoqyL+YLr+EPMrNpR6uLo5H4=
+			</data>
+		</dict>
+		<key>ProductSubscribeViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>ProductSubscribeViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ow1E8iJ3uapvrn1OLIYkPCJd7ROEtqxcDLH2xfk1c24=
+			</data>
+		</dict>
+		<key>ProfileViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			sQDeA2QOFpgyfhXT2jB2wjy//rFIHQ/ryLVOOKydH4U=
+			</data>
+		</dict>
+		<key>ProfileViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>ProfileViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pDHV5ld6P0fh0yyuNswrBLKhHBxojC/jqTrVSRMy08s=
+			</data>
+		</dict>
+		<key>RegisterSuccessViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			k99z3go8vgwdTLr8Awq4TJhxNsPGlTebmGqVGZzvDd8=
+			</data>
+		</dict>
+		<key>RegisterSuccessViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>RegisterSuccessViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ymwtryyDcSnJB+o1q5VtgY20CmZx7kUkQAgM+iHQJ58=
+			</data>
+		</dict>
+		<key>RegisterViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tkw8u38Mf8c2X52y7Wd2D49A8uICcwlC/so1ibIXan4=
+			</data>
+		</dict>
+		<key>RegisterViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>RegisterViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r2XwjB9QkR+E1ZGdkpUqa/KX+D7Wp94gt1j/BhEOBEs=
+			</data>
+		</dict>
+		<key>RequestForLoanViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P/JW1ke0KwcpLhtz7/NRNNYj2Q82qys1S/19dBqz8LU=
+			</data>
+		</dict>
+		<key>RequestForLoanViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>RequestForLoanViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			o249TklPG42evRfo5ATCVYfnnbDY33ron7U7X6rD2IU=
+			</data>
+		</dict>
+		<key>SendToAmountViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X9UtRmh3BRi8pURVoxepHWe8DiO4M5nyIlGzn//+YZQ=
+			</data>
+		</dict>
+		<key>SendToAmountViewController.storyboardc/UIViewController-alF-Zn-1xN.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8jN7UGn6Q81VhTDjDy/JF6FoA6e9OJzsGcxhCDURIEg=
+			</data>
+		</dict>
+		<key>SendToAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lrkId2umhudUSfbb5o8n0tv0a0yVl8r5LqQJxJ0ZMmU=
+			</data>
+		</dict>
+		<key>SummaryViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DEU1SjNTWEuTs+5kG7O0AnuMp9lbYpIpWXh8rEzqrtM=
+			</data>
+		</dict>
+		<key>SummaryViewController.storyboardc/UIViewController-ftk-7P-IYN.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uAXK+j2Irj6T0M/umlC5bvJDDGex5y+wwSI9SXmq+Lg=
+			</data>
+		</dict>
+		<key>SummaryViewController.storyboardc/ftk-7P-IYN-view-ypW-M5-Zgd.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/wpBljYHnDRegvP0f6rpHuuhl1KShOm0Y+FcSt+DSRM=
+			</data>
+		</dict>
 		<key>Test1Storyboard.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -417,6 +1398,48 @@
 			<key>hash2</key>
 			<data>
 			YkAL7d8yjyIBACEz5GbR7g8RJ5R+frRWzEeVytiQnEY=
+			</data>
+		</dict>
+		<key>TransactionListViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bVTBh1cFHD+ipUc4iM2fCRRGYCD4Eo2g8gVo6Kuv23c=
+			</data>
+		</dict>
+		<key>TransactionListViewController.storyboardc/UIViewController-dmg-gX-cAd.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tmW0qnTLKgN+wi7FW+jphwL3MfnCoqM9BI27/M355LA=
+			</data>
+		</dict>
+		<key>TransactionListViewController.storyboardc/dmg-gX-cAd-view-8ee-CA-NXs.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RGjaslj/Zm5rLub/PBFmO1a4Vz1fqKZHlaSD4fhU6Ls=
+			</data>
+		</dict>
+		<key>VerifyPhoneViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eyM7gqrNjTH6f31+XdnEGhU1oLaC6qdFvtzCWB3K8xk=
+			</data>
+		</dict>
+		<key>VerifyPhoneViewController.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
+			</data>
+		</dict>
+		<key>VerifyPhoneViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bzf0n7AEr6zk2OWhgxbnpvp7rrjTLnAHlBTiksJA5yk=
 			</data>
 		</dict>
 		<key>WelcomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>

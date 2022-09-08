@@ -22,6 +22,7 @@ let package = Package(
         .package(url: "https://github.com/alankarmisra/SwiftSignatureView.git", from: "3.0.0"),
         .package(url: "https://github.com/alexruperez/lottie-ios.git", from: "3.0.0"),
         .package(url: "https://github.com/marmelroy/PhoneNumberKit", from: "3.0.0"),
+        .package(url: "https://github.com/jrendel/SwiftKeychainWrapper", from: "4.0.0"),
     ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.
