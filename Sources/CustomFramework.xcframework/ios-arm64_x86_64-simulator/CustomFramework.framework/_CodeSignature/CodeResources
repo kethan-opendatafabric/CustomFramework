@@ -34,7 +34,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bTHdHqYpUwJdV/bgyoTkkW0M3ck=
+		GBSHkPHqxRy5KgdsMWxjy0NeN2U=
 		</data>
 		<key>BalanceViewController.storyboardc/Info.plist</key>
 		<data>
@@ -202,7 +202,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		SuKVJEB5rZape+G5sfYrHe4871A=
+		2xM9N01BAVrOTmciBTYcb+LuwPk=
 		</data>
 		<key>InstantCreditAmountViewController.storyboardc/Info.plist</key>
 		<data>
@@ -218,7 +218,7 @@
 		</data>
 		<key>LOCTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
 		<data>
-		XgzuMCA+vDR+UHeMhKrU0PsgNeA=
+		Yiyh/lXBQ64qh5+qHv8FYbGPivg=
 		</data>
 		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>LoginViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
-		f0xGxHy53ZFL12J06NxUw+OGaHk=
+		Pvmam0g6qHOmjJjNvlBB1aH1Qx0=
 		</data>
 		<key>LoginViewController.storyboardc/Info.plist</key>
 		<data>
@@ -246,11 +246,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		tfzJ0zDvMEIewMdiZlpUvHE3EUQ=
+		QlHMqJyRDbpNHHC2DyvURES6Ub0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		KbDtGMjn1NycrvlI1I/GgqGF2Zk=
+		EgHh/MaXNk3JFc9tV9Ie94ZGOzI=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -258,11 +258,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		JAsHNkgy+oEDamVznsJ52+Fo+/Y=
+		2J/FpTsYGpmnOJGTVNJjqZdJKW4=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VITBSB02+7zu9CnpyOW7+m5I5Dw=
+		hccMDw5uRUo516KAUFtxRjAA39o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -592,7 +592,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B7dKvyOyqm9ZjM6rI6aqx554oKt8qmNzavuTKpzY8mg=
+			fceTSI/LvCLOm5jmidGfcfaBBnsnXNGzmGs2XMWEPMw=
 			</data>
 		</dict>
 		<key>BalanceViewController.storyboardc/Info.plist</key>
@@ -907,7 +907,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fJJtEj1srqVG7nCQ7MFi58mx04h94GkWKMbQ1qaXkyw=
+			XDvrFNJvaWWjuVqP59fh++U7xPjI0Ts8jXft0ZbUSRA=
 			</data>
 		</dict>
 		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
@@ -928,7 +928,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zMATqiOQmqAVQmqkhGZGbkLKdJFrNdePlGS5giJe0Ao=
+			SYigDH5FUBi+1YHPh9dT4gvVDg3nKfi44AiBVrdxdR0=
 			</data>
 		</dict>
 		<key>LoginViewController.storyboardc/Info.plist</key>
@@ -956,14 +956,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+R8N1nelH2rTboD9P3QgfuRJLoHoMKYc25qXOxtbH4=
+			lMzQrwXoToXLd/pGoPeq+ZEWAGxn2ChnyaezbUCgOXs=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yAbz3CO0pP51pAIRzb+cUbswUiOGILPZqGcLqJl62xs=
+			ihQnKo8bGfECzBscNhFi4Q9U0TweiBziu3DSGIEaisM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -977,14 +977,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rKicN5gRbb/KvP7qbyZ6EqSAwN5RqZDSqwz7wbQ4avM=
+			AS6EjQuCyyWjdX3uuDqF3hyo08II6c4k9QucBUYHTM0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tJQH5DGGeigmSYcGKQmj3lIgGbk81Yvjh8usj36vh0U=
+			LcamemUOknyXlKzhaLHxdPjGOOe6QOcoqzHWBokHBY0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
