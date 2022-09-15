@@ -1940,7 +1940,7 @@
           {
             "kind": "Function",
             "name": "testFramework",
-            "printedName": "testFramework(refreshToken:clientId:userId:)",
+            "printedName": "testFramework(refreshToken:clientId:userId:delegate:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1973,11 +1973,25 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CustomFramework.LMSSDKDelegates?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "LMSSDKDelegates",
+                    "printedName": "CustomFramework.LMSSDKDelegates",
+                    "usr": "s:15CustomFramework15LMSSDKDelegatesP"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:15CustomFramework12ManagerClassV04testB012refreshToken8clientId04userI0So16UIViewControllerCSgSS_S2StFZ",
-            "mangledName": "$s15CustomFramework12ManagerClassV04testB012refreshToken8clientId04userI0So16UIViewControllerCSgSS_S2StFZ",
+            "usr": "s:15CustomFramework12ManagerClassV04testB012refreshToken8clientId04userI08delegateSo16UIViewControllerCSgSS_S2SAA15LMSSDKDelegates_pSgtFZ",
+            "mangledName": "$s15CustomFramework12ManagerClassV04testB012refreshToken8clientId04userI08delegateSo16UIViewControllerCSgSS_S2SAA15LMSSDKDelegates_pSgtFZ",
             "moduleName": "CustomFramework",
             "static": true,
             "declAttributes": [
@@ -5282,14 +5296,49 @@
         ]
       },
       {
+        "kind": "TypeDecl",
+        "name": "LMSSDKDelegates",
+        "printedName": "LMSSDKDelegates",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "didUserLogout",
+            "printedName": "didUserLogout()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:15CustomFramework15LMSSDKDelegatesP13didUserLogoutyyF",
+            "mangledName": "$s15CustomFramework15LMSSDKDelegatesP13didUserLogoutyyF",
+            "moduleName": "CustomFramework",
+            "genericSig": "<τ_0_0 where τ_0_0 : CustomFramework.LMSSDKDelegates>",
+            "sugared_genericSig": "<Self where Self : CustomFramework.LMSSDKDelegates>",
+            "protocolReq": true,
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:15CustomFramework15LMSSDKDelegatesP",
+        "mangledName": "$s15CustomFramework15LMSSDKDelegatesP",
+        "moduleName": "CustomFramework",
+        "genericSig": "<τ_0_0 : AnyObject>",
+        "sugared_genericSig": "<Self : AnyObject>",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ]
+      },
+      {
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
+        "moduleName": "CustomFramework"
       },
       {
         "kind": "Import",
@@ -8765,7 +8814,7 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Welcome\/WelcomeViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 389,
+      "offset": 402,
       "length": 1,
       "value": "2"
     },
@@ -9528,7 +9577,7 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Profile\/ProfileViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 475,
+      "offset": 488,
       "length": 5,
       "value": "false"
     },
@@ -10347,42 +10396,42 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 579,
+      "offset": 590,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 623,
+      "offset": 634,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 666,
+      "offset": 677,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 709,
+      "offset": 720,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 755,
+      "offset": 766,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/Login\/LoginViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 807,
+      "offset": 818,
       "length": 5,
       "value": "false"
     },
@@ -10795,14 +10844,14 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/DashBoardViewController\/DashboardViewModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 716,
+      "offset": 789,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/DashBoardViewController\/DashboardViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 810,
+      "offset": 883,
       "length": 2,
       "value": "\"\""
     },

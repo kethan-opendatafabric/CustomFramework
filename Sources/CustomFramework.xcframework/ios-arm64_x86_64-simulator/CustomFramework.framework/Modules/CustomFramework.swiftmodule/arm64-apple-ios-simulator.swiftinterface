@@ -47,7 +47,7 @@ extension CustomFramework.NibLoadable where Self : UIKit.UIView {
   @objc deinit
 }
 public struct ManagerClass {
-  public static func testFramework(refreshToken: Swift.String, clientId: Swift.String, userId: Swift.String) -> UIKit.UIViewController?
+  public static func testFramework(refreshToken: Swift.String, clientId: Swift.String, userId: Swift.String, delegate: CustomFramework.LMSSDKDelegates?) -> UIKit.UIViewController?
 }
 extension Foundation.NSMutableAttributedString {
   public func setAsLink(textToFind: Swift.String, linkURL: Swift.String, underLine: Swift.Bool = false, size: CoreFoundation.CGFloat = 11.0) -> Foundation.NSMutableAttributedString
@@ -64,3 +64,6 @@ extension CustomFramework.ModuleBuilder {
   @objc deinit
 }
 infix operator <-- : AdditionPrecedence
+public protocol LMSSDKDelegates : AnyObject {
+  func didUserLogout()
+}
