@@ -8,4 +8,4 @@ Present a Navigation or push a first ViewController of NavigationController
 
 import CustomFramework where you want to integrate the framework (for ex: any UIViewController)
 
- guard let navigationView = ManagerClass.testFramework() else { return }
+ guard let navigationView = ManagerClass.testFramework(refreshToken: String, clientId: String, userId: String) else { return }
