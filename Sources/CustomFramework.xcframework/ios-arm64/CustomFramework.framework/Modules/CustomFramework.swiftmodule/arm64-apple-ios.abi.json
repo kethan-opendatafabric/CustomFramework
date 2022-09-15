@@ -312,36 +312,6 @@
       },
       {
         "kind": "Import",
-        "name": "Bond",
-        "printedName": "Bond",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ReactiveKit",
-        "printedName": "ReactiveKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -448,43 +418,6 @@
         "moduleName": "CustomFramework",
         "declAttributes": [
           "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework"
-      },
-      {
-        "kind": "Import",
-        "name": "Bond",
-        "printedName": "Bond",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ReactiveKit",
-        "printedName": "ReactiveKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
         ]
       },
       {
@@ -688,16 +621,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "CustomFramework",
         "declAttributes": [
@@ -1043,16 +966,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -1304,26 +1217,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1493,16 +1386,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "CustomFramework",
         "declAttributes": [
@@ -3007,36 +2890,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Bond",
-        "printedName": "Bond",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ReactiveKit",
-        "printedName": "ReactiveKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -3371,16 +3224,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "CustomFramework",
         "declAttributes": [
@@ -4705,16 +4548,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -5202,36 +5035,6 @@
         "moduleName": "CustomFramework",
         "declAttributes": [
           "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CurrencyFormatter",
-        "printedName": "CurrencyFormatter",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CurrencyUITextFieldDelegate",
-        "printedName": "CurrencyUITextFieldDelegate",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
         ]
       },
       {
@@ -6339,104 +6142,6 @@
       "offset": 2602,
       "length": 16,
       "value": "\"principal_paid\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 587,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 630,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 679,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 728,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 770,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 817,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 906,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 958,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1008,
-      "length": 20,
-      "value": "\"HAS_REQUESTED_TEXT\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1071,
-      "length": 8,
-      "value": "\"REFUSE\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1124,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1217,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1326,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewModel.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1371,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Utils\/StaticValues.swift",
@@ -8658,20 +8363,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/PaymentHeader\/PaymentHeaderViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 623,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/PaymentHeader\/PaymentHeaderViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 710,
-      "length": 15,
-      "value": "\"TOTAL_BALANCE\""
-    },
-    {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Account\/VerifyPhone\/VerifyPhoneViewController.swift",
       "kind": "IntegerLiteral",
       "offset": 900,
@@ -9799,104 +9490,6 @@
       "value": "\"CustomFramework.PercentageModalInteractiveTransition\""
     },
     {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 842,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 873,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 908,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 938,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "IntegerLiteral",
-      "offset": 971,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1086,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1116,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1150,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1181,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1215,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1252,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1284,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1320,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountHelper.swift",
-      "kind": "StringLiteral",
-      "offset": 1351,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/DashBoardViewController\/DashboardViewController.swift",
       "kind": "Array",
       "offset": 387,
@@ -10805,27 +10398,6 @@
       "offset": 183,
       "length": 4,
       "value": "22.0"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1227,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1264,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/SendToAmountView\/SendToAmountViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 1298,
-      "length": 2,
-      "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/ODF Projects\/LMSApp\/lmsapp\/LMS\/Utils\/KeychainManager.swift",

@@ -142,7 +142,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t1JnBbB1IlGoZmNx8/33q91ZhPg=
+		shW8gzl388KJ74RIiNxy4CVZyYc=
 		</data>
 		<key>InstantCreditAmountViewController.storyboardc/Info.plist</key>
 		<data>
@@ -194,7 +194,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		pbsvxbPeZpd8hDqAFmyVKCbYdGo=
+		j9NN100pMvDqH3bd69s9Vs106ug=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -210,11 +210,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ak8tAqGyMJyupjd+JissCXk0rrE=
+		6QFmUBPWQExEE/YaKUR8VHbyu6E=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		pbsvxbPeZpd8hDqAFmyVKCbYdGo=
+		j9NN100pMvDqH3bd69s9Vs106ug=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -230,7 +230,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nrTc+2TifhVBICSMiXQ+uSvQCI8=
+		r+inCWK9pzYHVX5t1aRaB7vnYzk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -271,18 +271,6 @@
 		<key>OTPVerifySuccessViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
 		<data>
 		r4YSaSEe+VEAqhJ6iuFG9nbkdIQ=
-		</data>
-		<key>PaymentHeaderViewController.storyboardc/Info.plist</key>
-		<data>
-		k5xLFfXu1yiIHcgAm/1AGD9bBoI=
-		</data>
-		<key>PaymentHeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
-		<data>
-		/DWTMIipMmm1Q8aGBLkwcrb1guo=
-		</data>
-		<key>PaymentHeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
-		<data>
-		g/1f28LlsPPYzra3sqBxDS/ZX1I=
 		</data>
 		<key>PaymentReceiptViewController.storyboardc/Info.plist</key>
 		<data>
@@ -448,18 +436,6 @@
 		<data>
 		S3mSbkaFqKltPqLZhwyXuiTDxns=
 		</data>
-		<key>SendToAmountViewController.storyboardc/Info.plist</key>
-		<data>
-		KyvIgcp7a4xliTGY1lQ7P/x0btA=
-		</data>
-		<key>SendToAmountViewController.storyboardc/UIViewController-alF-Zn-1xN.nib</key>
-		<data>
-		1KrRwk3vOTZY1JPvQXm1UaBRYRA=
-		</data>
-		<key>SendToAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
-		<data>
-		NwaSSevgd1E0ghNOZe9YaERBSUo=
-		</data>
 		<key>StatementListViewController.storyboardc/Info.plist</key>
 		<data>
 		lusF/kIMKmOsb2MDjT2KaU7fD80=
@@ -514,7 +490,7 @@
 		</data>
 		<key>WelcomeViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
-		3amSrbcIVdmN0RcvoEFPRMMLEio=
+		wsZsk8Ah3/sKGfdVpabsmNPFbVE=
 		</data>
 		<key>WelcomeViewController.storyboardc/Info.plist</key>
 		<data>
@@ -853,7 +829,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSCQbxm4d8PWMS6dENqyYxiVOoBRXLq4vkMGLzRFHSQ=
+			A5qR820dCJYnmKVpiiNQwdtsFja4wqJsnuiwU9QAAjw=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -881,14 +857,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZGqxDsPEfiBZXsHUrfjKzgfOBfebdnffWvV+r0d+dC8=
+			O7aELVwDwqydFStZ91Ktf2HwE5BsAh0Fg5vbeHdJogM=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oSCQbxm4d8PWMS6dENqyYxiVOoBRXLq4vkMGLzRFHSQ=
+			A5qR820dCJYnmKVpiiNQwdtsFja4wqJsnuiwU9QAAjw=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -916,7 +892,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/lFSciuTrU10kcDass8N0fG31kCGv4SrHwO/vHTzsA=
+			bswaA1FwsxPrgeNk/1HvatdcC0gMbWy1qqUMN+Gxdf4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -987,27 +963,6 @@
 			<key>hash2</key>
 			<data>
 			McpwhKKPz9DSlAnMH35uipuORj/w/ltA1chmbhLb+eU=
-			</data>
-		</dict>
-		<key>PaymentHeaderViewController.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			b/er15HKhz7NFAMRVSkYLs1tUt7CHx3j93HHbaqUj9w=
-			</data>
-		</dict>
-		<key>PaymentHeaderViewController.storyboardc/UIViewController-lo8-19-rff.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			QXqMEBEhYV1l4BVjTBi4fiugfQCfpFsyFpKG7Zqxxsk=
-			</data>
-		</dict>
-		<key>PaymentHeaderViewController.storyboardc/lo8-19-rff-view-1su-jw-ZLx.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Hhc4ZJLbIAmb7f2L5N9dFOXWtMHobodoGN0L/BdBnIs=
 			</data>
 		</dict>
 		<key>PaymentReceiptViewController.storyboardc/Info.plist</key>
@@ -1297,27 +1252,6 @@
 			o249TklPG42evRfo5ATCVYfnnbDY33ron7U7X6rD2IU=
 			</data>
 		</dict>
-		<key>SendToAmountViewController.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			X9UtRmh3BRi8pURVoxepHWe8DiO4M5nyIlGzn//+YZQ=
-			</data>
-		</dict>
-		<key>SendToAmountViewController.storyboardc/UIViewController-alF-Zn-1xN.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			8jN7UGn6Q81VhTDjDy/JF6FoA6e9OJzsGcxhCDURIEg=
-			</data>
-		</dict>
-		<key>SendToAmountViewController.storyboardc/alF-Zn-1xN-view-Fd6-Fk-4hC.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			lrkId2umhudUSfbb5o8n0tv0a0yVl8r5LqQJxJ0ZMmU=
-			</data>
-		</dict>
 		<key>StatementListViewController.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
@@ -1413,7 +1347,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nyFAm84XhVl15d7bek+xLfWNcIWXL7JCUWOZz0vkj0I=
+			X9MF0F41s9h63LlfsXDVFYortdAfZg4Fvf6D96x4O7o=
 			</data>
 		</dict>
 		<key>WelcomeViewController.storyboardc/Info.plist</key>
