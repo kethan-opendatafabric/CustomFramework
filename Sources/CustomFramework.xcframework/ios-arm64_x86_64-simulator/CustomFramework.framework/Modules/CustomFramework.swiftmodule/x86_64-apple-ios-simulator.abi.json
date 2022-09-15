@@ -9479,21 +9479,14 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 386,
-      "length": 13,
-      "value": "\"right_arrow\""
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
-      "kind": "StringLiteral",
-      "offset": 454,
+      "offset": 415,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 567,
+      "offset": 528,
       "length": 2,
       "value": "\"\""
     },
