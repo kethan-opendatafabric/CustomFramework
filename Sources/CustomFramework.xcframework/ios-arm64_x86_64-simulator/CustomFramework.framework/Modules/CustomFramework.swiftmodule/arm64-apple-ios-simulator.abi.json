@@ -542,7 +542,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -1334,7 +1337,10 @@
         "name": "Lottie",
         "printedName": "Lottie",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -1535,7 +1541,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -3134,7 +3143,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -4150,7 +4162,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -4257,7 +4272,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -4873,7 +4891,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -5040,7 +5061,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -5302,7 +5326,10 @@
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
-        "moduleName": "CustomFramework"
+        "moduleName": "CustomFramework",
+        "declAttributes": [
+          "ImplementationOnly"
+        ]
       },
       {
         "kind": "Import",
@@ -9445,28 +9472,28 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 286,
+      "offset": 307,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 365,
+      "offset": 386,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 433,
+      "offset": 454,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Summary\/LOCTransactionCell\/LOCTransactionCellViewModel.swift",
       "kind": "StringLiteral",
-      "offset": 546,
+      "offset": 567,
       "length": 2,
       "value": "\"\""
     },
@@ -9508,7 +9535,7 @@
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Profile\/ProfileViewModel.swift",
       "kind": "BooleanLiteral",
-      "offset": 454,
+      "offset": 475,
       "length": 5,
       "value": "false"
     },

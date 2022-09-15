@@ -22,7 +22,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		7IMv20C2F8Az336GFRjPA1CMHlk=
+		lny+5NAc2bKy1JGP76M+0udRdYk=
 		</data>
 		<key>ChangePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
@@ -194,11 +194,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		Qh+4zWfqX3Kd/4/bLWigDM5JtDI=
+		XdRc1Jg/Rct8FyzYyqMbUBT6V9I=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		C1f/tRPdW4SKJFcd2usk8h2GMbQ=
+		qTjtEd5jES/WIZuTHJMmGVImRWc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -206,19 +206,19 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		C1f/tRPdW4SKJFcd2usk8h2GMbQ=
+		qTjtEd5jES/WIZuTHJMmGVImRWc=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		rh6ciD6ups3z2obYHNsxawqtkJs=
+		iG3hjiLt+sDEHpqlGdXohuVgoAI=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		Qh+4zWfqX3Kd/4/bLWigDM5JtDI=
+		XdRc1Jg/Rct8FyzYyqMbUBT6V9I=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		rW71guK9dxGiQTN0EzLdIrNUNHI=
+		ucvzMXk5I1uFNC2bPJACpuKX26I=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -226,11 +226,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		rW71guK9dxGiQTN0EzLdIrNUNHI=
+		ucvzMXk5I1uFNC2bPJACpuKX26I=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fLEUM3Vq4xWn3QG8tr8UmGBWKnE=
+		taWx5iUgOmcldgYiG+1YZ5vvuJU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -559,7 +559,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yDoDaTqalOdlf7Q03DQtFgRsOasoaJp5kSrPFFSOgHk=
+			5nWtYTdHDtEmo0sfWHhW8fL4RdQOlh6VLAJfO0ExYZ8=
 			</data>
 		</dict>
 		<key>ChangePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
@@ -853,14 +853,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9k1QWUhFuTBm2W0QIFXDHKOwq6oPkbPWBsTcjaoAHks=
+			wFGAz4D9YAObJ9z8f1rcbcPhlcLZCwCRFFrrmFDsOj0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HyCrSsWrwmPW5MPihvsVE8J7rmoVTG4bPNuMoLXfQCo=
+			TOxbyFaEibhzm2nBwvdDLi2cbBjbHHI5/AoPjPHdTFg=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -874,28 +874,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			HyCrSsWrwmPW5MPihvsVE8J7rmoVTG4bPNuMoLXfQCo=
+			TOxbyFaEibhzm2nBwvdDLi2cbBjbHHI5/AoPjPHdTFg=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2HLShWZB6VG5eaxi18NB4FgWG6xri7e4j9xTf4HplxY=
+			8/rE3VJsmmG1n7d0GjsOa+Umu0YoBlRQW/CXLMKdN5k=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9k1QWUhFuTBm2W0QIFXDHKOwq6oPkbPWBsTcjaoAHks=
+			wFGAz4D9YAObJ9z8f1rcbcPhlcLZCwCRFFrrmFDsOj0=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			byRWh17z27xojKypsm6iQQc4Bwj8Vc9NGwqrna6xKNA=
+			+whv/oHv7BeXe5OxebzPyqD61QzOWeLh9LtCe7eA7t4=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -909,14 +909,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			byRWh17z27xojKypsm6iQQc4Bwj8Vc9NGwqrna6xKNA=
+			+whv/oHv7BeXe5OxebzPyqD61QzOWeLh9LtCe7eA7t4=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SgWcfb1eikw1NGBJFEvw12TbhEtfBjxXdF/VDWJm4zo=
+			WiwRYTCCUq119rtLwNJq/Gd4BUJcThHmzZpo4N0wikE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
