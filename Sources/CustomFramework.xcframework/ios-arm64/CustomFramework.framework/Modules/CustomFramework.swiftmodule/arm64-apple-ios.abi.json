@@ -2880,16 +2880,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -3060,33 +3050,6 @@
         "moduleName": "CustomFramework",
         "declAttributes": [
           "Infix"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework"
-      },
-      {
-        "kind": "Import",
-        "name": "Bond",
-        "printedName": "Bond",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
         ]
       },
       {
@@ -4236,26 +4199,6 @@
       },
       {
         "kind": "Import",
-        "name": "Bond",
-        "printedName": "Bond",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "ImplementationOnly"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -4558,16 +4501,6 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Bond",
         "printedName": "Bond",
         "declKind": "Import",
@@ -4817,16 +4750,6 @@
         "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CustomFramework",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "CustomFramework",
         "declAttributes": [
@@ -6956,6 +6879,13 @@
       "value": "false"
     },
     {
+      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/PaymentSchedule\/LoanLists\/LoanListsViewModel.swift",
+      "kind": "BooleanLiteral",
+      "offset": 856,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/PaymentDisburse\/ICPaySuccessView\/ICPaySuccessViewModel.swift",
       "kind": "Array",
       "offset": 576,
@@ -8417,20 +8347,6 @@
       "offset": 2741,
       "length": 2,
       "value": "16"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Chat\/ChatViewModel.swift",
-      "kind": "Array",
-      "offset": 452,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Chat\/ChatViewModel.swift",
-      "kind": "Array",
-      "offset": 513,
-      "length": 2,
-      "value": "[]"
     },
     {
       "filePath": "\/Users\/kethan\/Documents\/GitHub\/Code\/Framework\/CustomFramework\/CustomFramework\/TestView\/Dashboard\/Receipts\/Cells\/StatusViewTopCell\/StatusViewTopCellViewModel.swift",

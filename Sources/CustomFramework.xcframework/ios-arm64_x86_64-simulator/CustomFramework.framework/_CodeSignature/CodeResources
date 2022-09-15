@@ -10,7 +10,7 @@
 		</data>
 		<key>AppointmentViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
-		YwrcI6MNnwtLyX0KveePryAlA8w=
+		ILTPHxMg5/qyn7agth9NDNUXyYY=
 		</data>
 		<key>AppointmentViewController.storyboardc/Info.plist</key>
 		<data>
@@ -35,18 +35,6 @@
 		<key>ChangePasswordViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
 		<data>
 		7aFe2c+M9TIN+M/f7Te46j5wacg=
-		</data>
-		<key>ChatViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
-		<data>
-		E9gY9N0Gc+gDmP6FZklKIzR3sJQ=
-		</data>
-		<key>ChatViewController.storyboardc/Info.plist</key>
-		<data>
-		AUhYv2MKjwyR34yvYAfokehKzp8=
-		</data>
-		<key>ChatViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
-		<data>
-		sC0l42gVTdTwUeSYFkdOavCeQxE=
 		</data>
 		<key>CreatePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
@@ -142,7 +130,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		shW8gzl388KJ74RIiNxy4CVZyYc=
+		Fk0a+3iLvZYlXCxq7YwUcT/8Qy8=
 		</data>
 		<key>InstantCreditAmountViewController.storyboardc/Info.plist</key>
 		<data>
@@ -158,7 +146,7 @@
 		</data>
 		<key>LOCTransactionViewController.storyboardc/1vg-3n-KFT-view-xSV-Lg-A6U.nib</key>
 		<data>
-		MDhH6ohJo7rLnOLVUi95mqaGeTM=
+		KfqBMBqV4u/j4DyuidgTaFKpIxg=
 		</data>
 		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
 		<data>
@@ -170,7 +158,7 @@
 		</data>
 		<key>LoanListsViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
-		XoS9aSDYNKmItnaRFRDlMw6TsVI=
+		Xtcq5Jr9o0K/MMessq7M8av2O5M=
 		</data>
 		<key>LoanListsViewController.storyboardc/Info.plist</key>
 		<data>
@@ -194,7 +182,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		j9NN100pMvDqH3bd69s9Vs106ug=
+		69g1+VOlwuvmUnpHbu9EuA1DRaM=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -210,11 +198,11 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6QFmUBPWQExEE/YaKUR8VHbyu6E=
+		4md6i5bSKni/ObMxTYDp4kMq8d0=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		j9NN100pMvDqH3bd69s9Vs106ug=
+		69g1+VOlwuvmUnpHbu9EuA1DRaM=
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -230,7 +218,7 @@
 		</data>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		r+inCWK9pzYHVX5t1aRaB7vnYzk=
+		2cKGd1geAEQ0IbnvmZ/0o1TAmLk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -390,7 +378,7 @@
 		</data>
 		<key>ProfileViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
 		<data>
-		SDV6wKLSozmJlZ7nOcIiglRlTJ8=
+		UlBJMFecXJvk7X1LWgR1GU1Vzxc=
 		</data>
 		<key>ProfileViewController.storyboardc/Info.plist</key>
 		<data>
@@ -514,7 +502,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RgHJ5xWKRHc8iftjAfnjwVsBZFdFKvSe/tq5DyOnkw8=
+			2Sv2q80bv04gNAKSvLkY99RV8+JQTzdpcKM3OPgtGU0=
 			</data>
 		</dict>
 		<key>AppointmentViewController.storyboardc/Info.plist</key>
@@ -557,27 +545,6 @@
 			<key>hash2</key>
 			<data>
 			rN6YtW6pN67SLTk4kIiH9lHNJ8L81bqZnPOMsnVUrsM=
-			</data>
-		</dict>
-		<key>ChatViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			KCJ3eQ5AEG72MVKzZXYYmcYD64yYE/Vhoy5Nly2Qrjw=
-			</data>
-		</dict>
-		<key>ChatViewController.storyboardc/Info.plist</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			emyne4K5cydK+pwDFnu0yj9EogxL3IQax5s7fqZvIM4=
-			</data>
-		</dict>
-		<key>ChatViewController.storyboardc/UIViewController-5vf-6d-rtR.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			/bWLsBNL1vBw7HSoXGV/Q6rl3Z3Z4Y7QwryWk09mQIw=
 			</data>
 		</dict>
 		<key>CreatePasswordViewController.storyboardc/5vf-6d-rtR-view-Nrn-u1-clj.nib</key>
@@ -766,7 +733,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uDVF6uLuyiVnrLRbv+i0Bf+ncscbM9Fk/p6IZ5OU3QY=
+			cV7jkZYQY2eLNsCJs4+O8zdrYqrULm7/Fk0zprqqKIU=
 			</data>
 		</dict>
 		<key>LOCTransactionViewController.storyboardc/Info.plist</key>
@@ -787,7 +754,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OGGTGegh3C10MtRIrxyv54mmnb2nb+rTxLfwZN3Pm38=
+			+dLUpdn5t0YopXJjB6G0oDagSRFVg/HpvhEz18AM4oA=
 			</data>
 		</dict>
 		<key>LoanListsViewController.storyboardc/Info.plist</key>
@@ -829,7 +796,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5qR820dCJYnmKVpiiNQwdtsFja4wqJsnuiwU9QAAjw=
+			DUHYlOI7nrdmlfQujgac+P1pGex3FGzQKO5WVzLg/PQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -857,14 +824,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7aELVwDwqydFStZ91Ktf2HwE5BsAh0Fg5vbeHdJogM=
+			9NQUMaw0+NKdbaN29YU1ug9t5AD4yUd13RT9NI3mFAo=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A5qR820dCJYnmKVpiiNQwdtsFja4wqJsnuiwU9QAAjw=
+			DUHYlOI7nrdmlfQujgac+P1pGex3FGzQKO5WVzLg/PQ=
 			</data>
 		</dict>
 		<key>Modules/CustomFramework.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -892,7 +859,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bswaA1FwsxPrgeNk/1HvatdcC0gMbWy1qqUMN+Gxdf4=
+			Wd4uvcnX9opIXlaJWNNBnAC3ETXhwJZO/BtiMM8Z6rk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -1172,7 +1139,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			s60XgFPC96IRe0mXt1dvRDup9cN1NJhmnygs0OeW9os=
+			WOmZA90K1dC/0ogHBrJjuEmsbVfvm94e9Uyj/jMAmG0=
 			</data>
 		</dict>
 		<key>ProfileViewController.storyboardc/Info.plist</key>
