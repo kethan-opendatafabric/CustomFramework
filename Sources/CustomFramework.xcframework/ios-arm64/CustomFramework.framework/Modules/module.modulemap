@@ -6,6 +6,6 @@ framework module CustomFramework {
 }
 
 module CustomFramework.Swift {
-    header "CustomFramework-Swift.h"
-    requires objc
+  header "CustomFramework-Swift.h"
+  requires objc
 }
